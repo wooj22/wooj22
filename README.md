@@ -1,6 +1,7 @@
 ## Hi✨
 
 🧑‍💻 **Seoul Women's University**
+
 🎮 **Game Programmer**
 
 - 🔭 I’m currently working on ...
