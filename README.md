@@ -2,10 +2,11 @@
 
 🧑‍💻 **Seoul Women's University**
 
-💻 **C, C++, C#, Java, Python, SQL, Kotlin, R, Html, Css, Javascript**
-
-🏭 **Visual studio, Unity, IntelliJ, Eclipse, Oracle, R, mySQL,  Android Studio, spss, Coraboratory, VS code, Atom**
-
-👥 **Githup, Notion, Discord, Kakaotalk, Instagram**
-
 🎮 **Game Programmer**
+
+💫 **Interaction Media Art Programmer**
+
+🏃‍➡️ **E-Sports Content Production**
+
+
+
