@@ -19,9 +19,12 @@
 
 <p align="left">
   <!-- 언어 -->
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
   <!-- 게임 엔진 -->
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
@@ -29,6 +32,9 @@
   <!-- 그래픽스/툴 -->
   <img src="https://img.shields.io/badge/DirectX-0096D6?style=for-the-badge&logo=directx&logoColor=white"/>
   <img src="https://img.shields.io/badge/FM0D-000000?style=for-the-badge&logo=fmod&logoColor=white"/>
+
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   
   <!-- 협업 -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
