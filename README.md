@@ -18,31 +18,30 @@
 ---
 
 ### 🛠️ Tech Stack
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
-<p align="left">
-  <!-- 언어 -->
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+### Game Engine
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Custom Engine](https://img.shields.io/badge/Custom_Engine-333333?style=for-the-badge&logo=gameandwatch&logoColor=white)
 
-  <!-- 게임 엔진 -->
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  
-  <!-- 그래픽스/툴 -->
-  <img src="https://img.shields.io/badge/DirectX-0096D6?style=for-the-badge&logo=directx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FM0D-000000?style=for-the-badge&logo=fmod&logoColor=white"/>
+### Graphics
+![DirectX 11](https://img.shields.io/badge/DirectX_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logoColor=white)
 
-  <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  
-  <!-- 협업 -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### Tools
+![RenderDoc](https://img.shields.io/badge/RenderDoc-1C1C1C?style=for-the-badge&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![ImGui](https://img.shields.io/badge/ImGui-1C1C1C?style=for-the-badge&logoColor=white)
+![FMOD](https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logoColor=white)
 
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
