@@ -1,6 +1,8 @@
 # Hi there, I'm Woojeong 👋
 
+
 🧑‍💻 **Seoul Women's University**  
+포트폴리오 : https://www.notion.so/wooj22/3b56c921e70a80c08675c9d9fb9b49bd?source=copy_link
 
 ### 🎮 Roles & Expertise
 - **Game Programming**: Client & Engine Development  
