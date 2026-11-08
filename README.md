@@ -1,51 +1,70 @@
-# Hi there, I'm Woojeong 👋
+# Hi, I'm 양우정 (UJeong Yang) 👋
 
+**엔진 밑단부터 게임플레이까지 만드는 게임 클라이언트 프로그래머입니다.**
 
-🧑‍💻 **Seoul Women's University**  
-포트폴리오 : https://www.notion.so/wooj22/3b56c921e70a80c08675c9d9fb9b49bd?source=copy_link
+컴포넌트 기반 2D 자체 엔진과 DX11 3D 렌더러를 직접 구현해 팀 프로젝트에 적용했고,
+Unreal Engine 5로 소울라이크 전투 · UI · 연출 · CI/CD를 담당했습니다.
 
-### 🎮 Roles & Expertise
-- **Game Programming**: Client & Engine Development  
-- **XR / Interaction Media Art Programming**  
-- **E-Sports Content Production**
-
----
-
-### 🌐 Links
-❤️ [Youtube](https://www.youtube.com/@%EC%96%91%EC%9A%B0%EC%A0%95-g8v)  
-🤍 [Tistory](https://wooj22.tistory.com/)  
+- 📒 **Portfolio** : [Notion](https://app.notion.com/p/wooj22/Game-Client-Programmer-Portfolio-4126c921e70a80b9b4a0c44cf54edeaf)
+- ✉️ **Email** : wooje222@gmail.com
+- ✍️ **Blog** : [양양의 게임개발](https://wooj22.tistory.com/)
+- ▶️ **YouTube** : [양우정](https://www.youtube.com/@%EC%96%91%EC%9A%B0%EC%A0%95-g8v/videos)
 
 ---
 
 ### 🛠️ Tech Stack
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Game Engine
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Custom Engine](https://img.shields.io/badge/Custom_Engine-333333?style=for-the-badge&logo=gameandwatch&logoColor=white)
+**Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-111111?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=sharp&logoColor=white)
 
-### Graphics
-![DirectX 11](https://img.shields.io/badge/DirectX_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logoColor=white)
+**Engines & Graphics**
+![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-111111?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white)
+![Custom Engine](https://img.shields.io/badge/Custom%20Engine-2D%20%2F%203D-111111?style=for-the-badge)
+![DirectX 11](https://img.shields.io/badge/DirectX%2011-111111?style=for-the-badge)
+![Direct2D](https://img.shields.io/badge/Direct2D-111111?style=for-the-badge)
 
-### Tools
-![RenderDoc](https://img.shields.io/badge/RenderDoc-1C1C1C?style=for-the-badge&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![ImGui](https://img.shields.io/badge/ImGui-1C1C1C?style=for-the-badge&logoColor=white)
-![FMOD](https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logoColor=white)
+**Libraries**
+![Assimp](https://img.shields.io/badge/Assimp-111111?style=for-the-badge)
+![ImGui](https://img.shields.io/badge/ImGui-111111?style=for-the-badge)
+![FMOD](https://img.shields.io/badge/FMOD-111111?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-111111?style=for-the-badge&logo=mediapipe&logoColor=white)
 
-### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+**Tools & CI/CD**
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-111111?style=for-the-badge)
+![RenderDoc](https://img.shields.io/badge/RenderDoc-111111?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-111111?style=for-the-badge&logo=subversion&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-111111?style=for-the-badge&logo=claude&logoColor=white)
+
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wooj22&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooj22&layout=compact&theme=tokyonight" height="160"/>
-</p>
+### 🎮 Projects
+
+| 프로젝트 | 분류 | 기술 | 담당 |
+|---|---|---|---|
+| **Re : Volition** | 3D 타임리프 소울라이크 · 팀 (진행 중) | UE5 · C++ | 전투 HFSM · 증강 시스템 · CommonUI · 연출/VFX · Jenkins CI/CD |
+| **[제사상](https://github.com/MoonSun-v/JesaSang)** | 3D 잠입 퍼즐 · 팀 4인 | C++ · DirectX 11 자체 엔진 | 렌더링 전담 (Deferred + Forward, PBR/IBL, 181ms → 16ms) · 클라이언트 |
+| **[DX11 Renderer](https://github.com/wooj22/DirectX3D11_Study)** | 3D 렌더링 파이프라인 · 개인 | C++ · DirectX 11 · HLSL | Deferred · Light Volume · Shadow · HDR · Bloom · Decal · Particle |
+| **[Eclipse](https://github.com/wooj22/Eclipse)** | 2D 액션 플랫포머 · 팀 4인 | C++ · Direct2D 자체 엔진 | 엔진 전담 (One-Way 플랫폼, CCD) · 혼 연쇄반응 · 보스 패턴 |
+| **[Friend Engine](https://github.com/wooj22/Friend_Engine)** | 2D 게임 엔진 · 개인 | C++ · Direct2D · FMOD | GameObject-Component 구조 · Physics · Animation · Resource |
+| **[Midnight Carnival](https://github.com/wooj22/MidnightCarnival)** | XR 테마파크 미디어아트 · 산학 | Unity · LiDAR · OSC · Spout | 센서 · 다면 송출 파이프라인 · **SIGGRAPH Asia 2024 전시** |
+| **[HT-Monster Hunter](https://github.com/wooj22/HT-MonsterHunter)** | 모션 인식 홈트레이닝 · 졸업작품 | Unity · MediaPipe | 포즈 연동 · 관절 각도 동작 판정 · KGDcon 2024 전시 |
+| **[MirrorFall](https://github.com/wooj22/MirrorFall)** | 2.5D 심리 호러 퍼즐 · 팀 | Unity | 플레이어 FSM · 튜토리얼 · 게임 흐름 |
+| **[TRUTH TRAIL](https://store.steampowered.com/app/3001150/TRUTH_TRAIL__exorcism_of_deception/)** | 공포 · 팀 | Unity | 기획 · PM · **Steam 출시** |
+
+---
+
+### 🏆 Exhibitions & Papers
+- SIGGRAPH Asia 2024 도쿄 국제 포럼 전시 — *Midnight Carnival*
+- FutureGround 현대백화점 인천 중동점 전시 — *Midnight Carnival*
+- KGDcon 2024 킨텍스 전시 — *HT-Monster Hunter*
+- 논문 「미디어 파이프 기술을 이용한 홈트레이닝용 피트니스 게임」
+- 논문 「XR기술을 활용한 4면 테마파크 실감 미디어 콘텐츠 개발 연구: 'Midnight Carnival'을 중심으로」
+
+### 🎓 Education
+- 게임인재원 7기 프로그래밍 과정 (2025 – 2027)
+- 서울여자대학교 소프트웨어융합학과 졸업 (2020 – 2026)
