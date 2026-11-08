@@ -15,30 +15,30 @@ Unreal Engine 5로 소울라이크 전투 · UI · 연출 · CI/CD를 담당했�
 ### 🛠️ Tech Stack
 
 **Languages**
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-111111?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=sharp&logoColor=white)
+![C++](badges/cpp.svg)
+![HLSL](badges/hlsl.svg)
+![C#](badges/csharp.svg)
 
 **Engines & Graphics**
-![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-111111?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white)
-![Custom Engine](https://img.shields.io/badge/Custom%20Engine-2D%20%2F%203D-111111?style=for-the-badge)
-![DirectX 11](https://img.shields.io/badge/DirectX%2011-111111?style=for-the-badge)
-![Direct2D](https://img.shields.io/badge/Direct2D-111111?style=for-the-badge)
+![Unreal Engine 5](badges/unreal-engine-5.svg)
+![Unity](badges/unity.svg)
+![Custom Engine](badges/custom-engine.svg)
+![DirectX 11](badges/directx-11.svg)
+![Direct2D](badges/direct2d.svg)
 
 **Libraries**
-![Assimp](https://img.shields.io/badge/Assimp-111111?style=for-the-badge)
-![ImGui](https://img.shields.io/badge/ImGui-111111?style=for-the-badge)
-![FMOD](https://img.shields.io/badge/FMOD-111111?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-111111?style=for-the-badge&logo=mediapipe&logoColor=white)
+![Assimp](badges/assimp.svg)
+![ImGui](badges/imgui.svg)
+![FMOD](badges/fmod.svg)
+![MediaPipe](badges/mediapipe.svg)
 
 **Tools & CI/CD**
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-111111?style=for-the-badge)
-![RenderDoc](https://img.shields.io/badge/RenderDoc-111111?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN-111111?style=for-the-badge&logo=subversion&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-111111?style=for-the-badge&logo=claude&logoColor=white)
+![Visual Studio](badges/visual-studio.svg)
+![RenderDoc](badges/renderdoc.svg)
+![Git](badges/git.svg)
+![SVN](badges/svn.svg)
+![Jenkins](badges/jenkins.svg)
+![Claude Code](badges/claude-code.svg)
 
 ---
 
