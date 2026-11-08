@@ -49,63 +49,63 @@ Unreal Engine 5로 소울라이크 전투 · UI · 연출 · CI/CD를 담당했�
 - **장르** : 3D 타임리프 소울라이크 액션 · 팀 프로젝트 (진행 중)
 - **기술** : Unreal Engine 5 · C++ · CommonUI · Jenkins
 - **담당** : 전투 HFSM (공격 · 회피 · 패링 · 가드, 입력 예약 / 캔슬) · 신성 흡수 증강 시스템 · CommonUI 인게임 UI · 캐릭터 연출 / VFX · 타임리프 PostProcess 셰이더 · Jenkins CI/CD
-- **기여도** : 커밋 51% · 코드 50% · 시스템 46 / 65 (프로그래머 2명 중)
+- **AI 분석 기여도** : 플레이어 전투 · 연출 · 빌드 파이프라인을 주도하고, 인게임 UI 구조를 팀원과 함께 설계
 
 #### 🍚 제사상
 - **링크** : [MoonSun-v/JesaSang](https://github.com/MoonSun-v/JesaSang)
 - **장르** : 3D 잠입 스릴러 요리 퍼즐 · 팀 프로젝트
 - **기술** : C++ · DirectX 11 · HLSL · 자체 엔진
 - **담당** : 렌더링 전담 (Deferred + Forward Hybrid, PBR · IBL, Light Volume 다중 광원 최적화 181ms → 16ms, Decal) · 플레이어 FSM · 조리 미니게임 · 카메라
-- **기여도** : 팀 커밋 1위 (43%) · 렌더링 코드 73% (프로그래머 4명 중)
+- **AI 분석 기여도** : 팀 엔진의 렌더링 파트를 전담하며 그래픽스 기반을 책임지고, 주요 클라이언트 시스템 구현
 
 #### 🔆 DX11 3D Renderer
 - **링크** : [wooj22/DirectX3D11_Study](https://github.com/wooj22/DirectX3D11_Study)
 - **장르** : 3D 렌더링 파이프라인 · 개인 프로젝트
 - **기술** : C++ · DirectX 11 · HLSL · Assimp · ImGui · RenderDoc
 - **담당** : Deferred + Forward Hybrid · Light Volume / Stencil · PBR · IBL · Shadow Mapping (PCF) · HDR · Bloom · Decal · Particle
-- **기여도** : 개인 프로젝트 (100%)
+- **AI 분석 기여도** : 설계부터 구현까지 단독 진행
 
 #### 🌘 Eclipse
 - **링크** : [wooj22/Eclipse](https://github.com/wooj22/Eclipse)
 - **장르** : 2D 사이드뷰 웨이브 디펜스 액션 플랫포머 · 팀 프로젝트
 - **기술** : C++ · Direct2D · FMOD · 자체 엔진
 - **담당** : 엔진 전담 (One-Way 플랫폼 Collision, CCD 터널링 방지, 런타임 오브젝트 생성 크래시 해결) · 혼 충돌 연쇄반응 · 보스 탄막 패턴 · 연출
-- **기여도** : 팀 커밋 1위 (38%) · 엔진 코드 99% (프로그래머 4명 중)
+- **AI 분석 기여도** : 사전 제작한 엔진을 팀 프로젝트에 적용하고, 개발 기간 동안 엔진 확장과 유지보수를 전담
 
 #### 🦾 Friend Engine
 - **링크** : [wooj22/Friend_Engine](https://github.com/wooj22/Friend_Engine)
 - **장르** : 2D 게임 엔진 · 개인 프로젝트
 - **기술** : C++ · Direct2D · FMOD
 - **담당** : GameObject-Component 구조 · 고정 타임스텝 Game Loop · Sweep and Prune Physics · FSM Animation · Resource Manager
-- **기여도** : 개인 프로젝트 (100%)
+- **AI 분석 기여도** : 설계부터 구현까지 단독 진행
 
 #### 🎡 Midnight Carnival
 - **링크** : [wooj22/MidnightCarnival](https://github.com/wooj22/MidnightCarnival)
 - **장르** : LiDAR · 다면 프로젝션 XR 테마파크 체험 콘텐츠 · 산학 협력 (SIGGRAPH Asia 2024 전시)
 - **기술** : Unity · C# · LiDAR · OSC · Spout · Resolume
 - **담당** : LiDAR 센서 실시간 인터랙션 · 다면 실시간 송출 · 전시장별 플랫폼 전환과 캘리브레이션 · 어트랙션 게임
-- **기여도** : 커밋 67% · 코드 55% (프로그래머 2명 중)
+- **AI 분석 기여도** : 센서 입력부터 다면 송출까지 파이프라인을 맡아, 전시 현장 세팅과 운영까지 대응
 
 #### 🏋️ HT-Monster Hunter
 - **링크** : [wooj22/HT-MonsterHunter](https://github.com/wooj22/HT-MonsterHunter)
 - **장르** : 모션 인식 AR 홈트레이닝 게임 · 졸업 프로젝트 (KGDcon 2024 전시)
 - **기술** : Unity · C# · MediaPipe · Python
 - **담당** : MediaPipe 포즈 데이터 Unity 연동 · 관절 각도 기반 동작 판정 · 운동 루틴과 몬스터 전투
-- **기여도** : 커밋 56% · 코드 53% (프로그래머 2명 중)
+- **AI 분석 기여도** : 포즈 인식 연동과 동작 판정 로직을 중심으로 게임 콘텐츠 구현
 
 #### 🪞 MirrorFall
 - **링크** : [wooj22/MirrorFall](https://github.com/wooj22/MirrorFall)
 - **장르** : 2.5D 쿼터뷰 심리 호러 퍼즐 · 팀 프로젝트
 - **기술** : Unity · C#
 - **담당** : 플레이어 FSM · 거울 조각 퍼즐 · FSM Step 튜토리얼 · 2.5D Y-Sort 정렬 · 인벤토리 / 아이템
-- **기여도** : 커밋 71% · 코드 60% (프로그래머 3명 중)
+- **AI 분석 기여도** : 플레이어 · 튜토리얼 · 게임 흐름 등 핵심 플레이 루프를 주로 담당
 
 #### 👻 TRUTH TRAIL : exorcism of deception
 - **링크** : [TRUTH-TRAIL](https://github.com/TRUTH-TRAIL) · [Steam](https://store.steampowered.com/app/3001150/TRUTH_TRAIL__exorcism_of_deception/)
 - **장르** : 공포 · 팀 프로젝트 (Steam 무료 출시)
 - **기술** : Unity · C#
 - **담당** : 기획 · PM 전담 · 후반부 개발 지원
-- **기여도** : 기획 · PM 전담 (프로그래머 4명 · 기획 1명)
+- **AI 분석 기여도** : 기획과 일정 관리를 맡아, 팀 개편을 거쳐 Steam 출시까지 함께 완주
 
 ---
 
