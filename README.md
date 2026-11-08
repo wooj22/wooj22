@@ -51,7 +51,7 @@ Unreal Engine 5로 소울라이크 전투 · UI · 연출 · CI/CD를 담당했�
 - **장르** : 3D 타임리프 소울라이크 액션 · 팀 프로젝트 (진행 중)
 - **기술** : Unreal Engine 5 · C++ · CommonUI · Jenkins
 - **담당** : 전투 HFSM (공격 · 회피 · 패링 · 가드, 입력 예약 / 캔슬) · 신성 흡수 증강 시스템 · CommonUI 인게임 UI · 캐릭터 연출 / VFX · 타임리프 PostProcess 셰이더 · Jenkins CI/CD
-- **AI 분석 기여도** : 상 · 플레이어 전투 · 연출 · 빌드 파이프라인을 주도하고, 인게임 UI 구조를 팀원과 함께 설계
+- **AI 분석 기여도** : 상 · 플레이어 전투 · 연출 · 빌드 파이프라인을 주도하고, 인게임 UI 구조를 설계
 
 #### 🍚 제사상
 - **링크** : [MoonSun-v/JesaSang](https://github.com/MoonSun-v/JesaSang)
