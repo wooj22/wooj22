@@ -5,7 +5,7 @@
 컴포넌트 기반 2D 자체 엔진과 DX11 3D 렌더러를 직접 구현해 팀 프로젝트에 적용했고,
 Unreal Engine 5로 소울라이크 전투 · UI · 연출 · CI/CD를 담당했습니다.
 
-- 📒 **Portfolio** : [Notion](https://app.notion.com/p/wooj22/Game-Client-Programmer-Portfolio-4126c921e70a80b9b4a0c44cf54edeaf)
+- 📒 **Portfolio** : [Notion](https://app.notion.com/p/wooj22/Game-Client-Programmer-Portfolio-4146c921e70a80cfb26ac58f239b54a7?source=copy_link)
 - ✉️ **Email** : wooje222@gmail.com
 - ✍️ **Blog** : [양양의 게임개발](https://wooj22.tistory.com/)
 - ▶️ **YouTube** : [양우정](https://www.youtube.com/@%EC%96%91%EC%9A%B0%EC%A0%95-g8v/videos)
